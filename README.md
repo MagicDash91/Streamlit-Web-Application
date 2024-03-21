@@ -18,3 +18,6 @@ This project allow the user to do clustering method from their CSV File. First t
 
 ## 6. Fraud Analysis (Google Gemini)
 This project is actually for my Google Gen AI Hackathon (Hack2Skill). The user only need to upload their fraud csv dataset after that the user should inpput the target variable and some column for analysis (attribute). After that the Google Gemini will give 4 Visualization, they are : Countplot Visualization, Histoplot Visualization, Multiclass Countplot Visualization, Multiclass Histoplot Visualization. The Google Gemini will give some Conclusion and Actionable Insight each Visualization
+
+## 7. PDF Document Analysis (Google Gemini)
+This project allow the user to analyse their PDF File. The user only need to upload their PDF File and put some additional sopwords for data cleansing. After that the system will give the Wordcloud Visualization and Bi-Gram Visualization and lastly Google Gemini will give some conclusion and Actionable Insight based on each Visualization 
