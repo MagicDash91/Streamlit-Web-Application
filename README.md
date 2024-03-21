@@ -13,7 +13,7 @@ This project allow the user to upload their image, and then Google Gemini will a
 ## 4. Complete Pack
 This project is actually the complete pack for all of the Data Science project. There are : Machine Learning Classification Prediction, Machine Learning Regresion Prediction, PDF Document Analysis, Sentiment Analysis, CSV File Analysis, Clustering, EDA With Google Gemini
 
-## 5. E-Commerce Clustering (Google Gemini)
+## 5. E-Commerce Clustering (Google Gemini, K-Means)
 This project allow the user to do clustering method from their CSV File. First thing they have to do is upload a CSV File, then pick 3 numerical column for clustering. After that the user need to define how many cluster that they want. The last step is the system will give the 3D Clustering Visualization and the Google Gemini will give some response based on the 3D Clustering result
 
 ## 6. Fraud Analysis (Google Gemini)
@@ -21,3 +21,6 @@ This project is actually for my Google Gen AI Hackathon (Hack2Skill). The user o
 
 ## 7. PDF Document Analysis (Google Gemini)
 This project allow the user to analyse their PDF File. The user only need to upload their PDF File and put some additional sopwords for data cleansing. After that the system will give the Wordcloud Visualization and Bi-Gram Visualization and lastly Google Gemini will give some conclusion and Actionable Insight based on each Visualization 
+
+## 8. Table Scraper Analysis (Google Gemini, BeautifulSoup)
+This project allow the user to analyze the table from the selected website link. The first thing the users have to do is they have to put the link to analyze and then the system will show all of the available table from the website. After that the user should select column for analysis and remove the unwanted rows. Lastly the Google Gemini will analyze the selected table and give some conclusion and actioonable insight based on the table
