@@ -24,3 +24,7 @@ This project allow the user to analyse their PDF File. The user only need to upl
 
 ## 8. Table Scraper Analysis (Google Gemini, BeautifulSoup)
 This project allow the user to analyze the table from the selected website link. The first thing the users have to do is they have to put the link to analyze and then the system will show all of the available table from the website. After that the user should select column for analysis and remove the unwanted rows. Lastly the Google Gemini will analyze the selected table and give some conclusion and actioonable insight based on the table
+
+
+## 9. PDF Document Comparison (Google Gemini, Cosine Simmilarity)
+This project allow the user to compare 2 PDF Document File and then the system will give the similarity percentage with cosine similarity. The system also will show Word cloud and Bi-Gram Visualization for each documents. Lastly the Google Gini will analyze both Document and give conclusion about the similarities and differences from both documents
